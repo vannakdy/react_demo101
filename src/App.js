@@ -10,6 +10,10 @@ const App = () =>{
       <h1>Welcome ReactJS</h1>
       <h1>Welcome ReactJS</h1>
       <h1>Welcome ReactJS</h1>
+      <h1>Hello wold</h1>
+      <h1>Hello wold</h1>
+      <h1>Hello wold</h1>
+      <h1>Hello wold</h1>
     </div>
   )
 }

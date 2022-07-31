@@ -1,3 +1,16 @@
+
+git init
+git remote add origin https://github.com/vannakdy/react_demo101.git
+git status 
+git add .
+git staus
+git commit -m "Commit first react project"
+git push -u origin master
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
